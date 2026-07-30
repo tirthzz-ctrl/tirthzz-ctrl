@@ -37,23 +37,6 @@
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
----
-
-## 📊 GitHub Stats & Achievements:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tirthzz-ctrl&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="Stats" />
-  <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=tirthzz-ctrl&theme=dracula&no-bg=true&margin-w=15" alt="Trophies" />
-  <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=tirthzz-ctrl&theme=dark&hide_border=false" alt="Streak" />
-</div>
-
-### 🐍 Contribution Snake
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tirthzz-ctrl/tirthzz-ctrl/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tirthzz-ctrl/tirthzz-ctrl/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/tirthzz-ctrl/tirthzz-ctrl/output/github-contribution-grid-snake.svg">
-</picture>
 
 ---
 
