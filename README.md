@@ -1,8 +1,6 @@
 # Hi there, I'm Tirtharaj! 👋 
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=Aspiring+Coder;AI+/+ML+Enthusiast;Chai+Lover+☕;Building+the+Future..." alt="Typing SVG" />
-</div>
+
 
 ### 💫 About Me:
 - 🚀 **Mission:** Conquering the world, one line of code at a time!
